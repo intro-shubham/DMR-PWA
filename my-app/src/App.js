@@ -7,6 +7,7 @@ import Checkout from './Checkout';
 
 function App() {
   return (
+    // there is no use of Switch, use Routes instead Switch..
     <BrowserRouter>
       <div>
         <Header />
